@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/Jd7xWCnE6j6KY/giphy.gif"/>
   <h1 align="center"> Menu online </h1>
-  <p align="center"> Site simples para menu de pizzaria </p>
 </p>
 
 <p align="center">
@@ -9,13 +8,15 @@
 </p>
 
 
-# :pizza: Delivert Donatello
-Aplicativo para pedido de pizza exclusivo da pizzaria Donatello.
-Integração entre aplicativo mobile (Android e IOS) com site de gerenciamento dos pedidos em tempo real.
+# :pizza: Ligaki Pizzaria
+<p align="center">
+  <img src="https://ligaki.firebaseapp.com/img/logo/logo.png"/>
+</p>
+
  
 ### Contato:
-* Facebook: https://www.facebook.com/DonatellosPizzariaSP/
-* Site: https://donatellositep.firebaseapp.com
+* Facebook: https://www.facebook.com/ligakipizzaria/
+* Site: https://ligaki.firebaseapp.com
 
 
 
